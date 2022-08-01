@@ -5,8 +5,4 @@
     <RootNamespace>RestWithASP_NETUdemy</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\Implementations\" />
-  </ItemGroup>
-
 </Project>
