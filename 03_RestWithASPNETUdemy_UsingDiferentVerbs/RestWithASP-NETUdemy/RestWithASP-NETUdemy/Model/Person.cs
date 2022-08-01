@@ -13,6 +13,5 @@ namespace RestWithASP_NETUdemy.Model
         public string Address { get; set; }
         public string Gender { get; set; }
 
-
     }
 }
