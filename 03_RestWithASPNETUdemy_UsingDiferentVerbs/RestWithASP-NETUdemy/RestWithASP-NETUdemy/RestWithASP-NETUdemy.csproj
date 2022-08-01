@@ -5,4 +5,12 @@
     <RootNamespace>RestWithASP_NETUdemy</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Model\Script\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NuGet.Frameworks" Version="5.0.0" />
+  </ItemGroup>
+
 </Project>
