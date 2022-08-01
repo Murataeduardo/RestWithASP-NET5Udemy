@@ -1,0 +1,13 @@
+CREATE TABLE rest_with_asp_net_udemy.person (
+  id BIGINT(20) NOT NULL AUTO_INCREMENT,
+  address VARCHAR(100) NOT NULL,
+  fisrt_name VARCHAR(80) NOT NULL,
+  gender VARCHAR(6) NOT NULL,
+  last_name VARCHAR(80) DEFAULT NULL,
+  PRIMARY KEY (id)
+)
+ENGINE = INNODB,
+AUTO_INCREMENT = 3,
+AVG_ROW_LENGTH = 8192,
+CHARACTER SET utf8mb4,
+COLLATE utf8mb4_general_ci;
